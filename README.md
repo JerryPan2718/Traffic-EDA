@@ -2,7 +2,7 @@
 
 ## Todo
 Monday
-- [ ] Tinna: Monday 10-11am TA OH
+- [x] Tinna: Monday 10-11am TA OH
 - [ ] TA: check all free response in Q1,  Q2A, and ask for answer for Q2B
 - [ ] Night: finished Open-ended EDA and design doc
 
