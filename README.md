@@ -4,11 +4,20 @@
 * [FinalProject_Part1.pdf](https://github.com/JerryPan2718/Traffic-EDA/files/7556643/FinalProject_Part1.pdf)
 * [Design Doc](https://docs.google.com/document/d/1P9ORiJ3FKfwQYMKVasinjspX4qiJ11-HqxWSwdcT7Gg/edit)
 
+## Potential Datasets
+* https://data.world/datasets/san-francisco
+* https://data.world/datasets/transportation
+* https://data.world/buffalony/y93c-u65y
+* https://spectrum.ieee.org/mining-traffic-data-for-insights-about-the-pandemic
+* https://data.sfgov.org/COVID-19/COVID-19-Tenderloin-Plan-Zones/xw26-dnmx
+* https://www.kaggle.com/terenceshin/covid19s-impact-on-airport-traffic/code
+* https://www.kaggle.com/usdot/nhtsa-traffic-fatalities
+
 ## Todo
 Wednesday
-- [ ] Wed: 12-1pm TA OH
-- [ ] Design doc modeling finish
-- [ ] Design doc visualization analyze last heatmap (weekday-weekend)
+- [x] Wed: 12-1pm TA OH
+- [x] Design doc modeling finish
+- [x] Design doc visualization analyze last heatmap (weekday-weekend)
 
 Tuesday
 - [x] Jerry: Tuesday 8-9am TA OH
