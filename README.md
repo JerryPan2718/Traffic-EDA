@@ -3,6 +3,7 @@
 * [OH spreadsheet](https://docs.google.com/spreadsheets/d/1GNjqyQf9h92BSQNSVN8THfz4-NlP8rZxjYrtxuu_Xqk/edit#gid=0)
 * [FinalProject_Part1.pdf](https://github.com/JerryPan2718/Traffic-EDA/files/7556643/FinalProject_Part1.pdf)
 * [Design Doc](https://docs.google.com/document/d/1P9ORiJ3FKfwQYMKVasinjspX4qiJ11-HqxWSwdcT7Gg/edit)
+* [FinalProject_Part2.pdf](https://github.com/JerryPan2718/Traffic-EDA/files/7598685/FinalProject_Part2.pdf)
 
 ## Potential Datasets
 * https://data.world/datasets/san-francisco
